@@ -1,0 +1,9 @@
+﻿#game {
+	background-color: black;
+	--snake-color: green;
+	--food-color: red;
+	--text-color: lightgreen;
+
+	--center-message-font: "22px Verdana";
+	--controls-font: "12px Verdana";
+}
